@@ -22,7 +22,7 @@ class Person{
 void test01()
 {   
     const Person p;  // 常对象
-    p.m_A = 10;  // 值也不可以修改
+    //p.m_A = 10;  // 值也不可以修改
     p.m_B = 10;
 }
 
