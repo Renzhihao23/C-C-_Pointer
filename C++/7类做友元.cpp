@@ -13,9 +13,10 @@ public:
 };
 
 class Building
-{
-	//firend void GoodGay::visit();
-	friend class GoodGay;  //GoodGay类 是本类的好朋友，可以访问本类中的私有成员
+{	
+	//firend void GoodGay::visit();		  局部函数做友元
+	//firend void GoodGay::visit();       全局函数做友元                             
+	friend class GoodGay;  //GoodGay类    类做友元
 public:
 
 	string m_Sitting_Room;
