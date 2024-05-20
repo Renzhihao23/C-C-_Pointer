@@ -7,7 +7,7 @@ void PrintVecter(vector<int>&v){
     {
         cout << *it << " ";
     }
-    
+                                                                                                                                                                                                                                                                                                                   
 }
 
 //赋值
