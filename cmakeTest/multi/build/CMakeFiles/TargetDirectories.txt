@@ -1,0 +1,14 @@
+/home/renzhihao/cmakeTest/multi/build/CMakeFiles/rebuild_cache.dir
+/home/renzhihao/cmakeTest/multi/build/CMakeFiles/edit_cache.dir
+/home/renzhihao/cmakeTest/multi/build/calc/CMakeFiles/rebuild_cache.dir
+/home/renzhihao/cmakeTest/multi/build/calc/CMakeFiles/edit_cache.dir
+/home/renzhihao/cmakeTest/multi/build/calc/CMakeFiles/calc.dir
+/home/renzhihao/cmakeTest/multi/build/sort/CMakeFiles/rebuild_cache.dir
+/home/renzhihao/cmakeTest/multi/build/sort/CMakeFiles/edit_cache.dir
+/home/renzhihao/cmakeTest/multi/build/sort/CMakeFiles/sort.dir
+/home/renzhihao/cmakeTest/multi/build/test1/CMakeFiles/rebuild_cache.dir
+/home/renzhihao/cmakeTest/multi/build/test1/CMakeFiles/edit_cache.dir
+/home/renzhihao/cmakeTest/multi/build/test1/CMakeFiles/test1.dir
+/home/renzhihao/cmakeTest/multi/build/test2/CMakeFiles/rebuild_cache.dir
+/home/renzhihao/cmakeTest/multi/build/test2/CMakeFiles/edit_cache.dir
+/home/renzhihao/cmakeTest/multi/build/test2/CMakeFiles/test2.dir

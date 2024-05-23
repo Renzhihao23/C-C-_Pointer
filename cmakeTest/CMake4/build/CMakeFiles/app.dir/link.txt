@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/app.dir/main.cpp.o  -o app   -L/home/renzhihao/CMAKE/CMake4/lib2  -Wl,-rpath,/home/renzhihao/CMAKE/CMake4/lib2 -lcalc 

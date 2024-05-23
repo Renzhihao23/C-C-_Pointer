@@ -1,0 +1,3 @@
+/home/renzhihao/CMake/build/CMakeFiles/rebuild_cache.dir
+/home/renzhihao/CMake/build/CMakeFiles/edit_cache.dir
+/home/renzhihao/CMake/build/CMakeFiles/app.dir

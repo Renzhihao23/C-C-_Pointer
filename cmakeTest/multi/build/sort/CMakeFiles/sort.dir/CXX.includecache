@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/sort.h
+
+/home/renzhihao/cmakeTest/multi/sort/insert.cpp
+stdio.h
+-
+sort.h
+-
+stdlib.h
+-
+
+/home/renzhihao/cmakeTest/multi/sort/printList.cpp
+stdio.h
+-
+sort.h
+-
+stdlib.h
+-
+
