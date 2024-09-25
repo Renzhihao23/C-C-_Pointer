@@ -1,0 +1,3 @@
+E:/Projects/C_or_CPP/build/CMakeFiles/app.dir
+E:/Projects/C_or_CPP/build/CMakeFiles/edit_cache.dir
+E:/Projects/C_or_CPP/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,32 @@
+[
+{
+  "directory": "E:/Projects/C_or_CPP/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\add.cpp.obj -c E:\\Projects\\C_or_CPP\\cmakeTest\\CMake\\src\\add.cpp",
+  "file": "E:/Projects/C_or_CPP/cmakeTest/CMake/src/add.cpp",
+  "output": "CMakeFiles/app.dir/src/add.cpp.obj"
+},
+{
+  "directory": "E:/Projects/C_or_CPP/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\div.cpp.obj -c E:\\Projects\\C_or_CPP\\cmakeTest\\CMake\\src\\div.cpp",
+  "file": "E:/Projects/C_or_CPP/cmakeTest/CMake/src/div.cpp",
+  "output": "CMakeFiles/app.dir/src/div.cpp.obj"
+},
+{
+  "directory": "E:/Projects/C_or_CPP/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\main.cpp.obj -c E:\\Projects\\C_or_CPP\\cmakeTest\\CMake\\src\\main.cpp",
+  "file": "E:/Projects/C_or_CPP/cmakeTest/CMake/src/main.cpp",
+  "output": "CMakeFiles/app.dir/src/main.cpp.obj"
+},
+{
+  "directory": "E:/Projects/C_or_CPP/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\mult.cpp.obj -c E:\\Projects\\C_or_CPP\\cmakeTest\\CMake\\src\\mult.cpp",
+  "file": "E:/Projects/C_or_CPP/cmakeTest/CMake/src/mult.cpp",
+  "output": "CMakeFiles/app.dir/src/mult.cpp.obj"
+},
+{
+  "directory": "E:/Projects/C_or_CPP/build",
+  "command": "C:\\mingw64\\bin\\g++.exe  @CMakeFiles/app.dir/includes_CXX.rsp -g -std=gnu++11 -o CMakeFiles\\app.dir\\src\\sub.cpp.obj -c E:\\Projects\\C_or_CPP\\cmakeTest\\CMake\\src\\sub.cpp",
+  "file": "E:/Projects/C_or_CPP/cmakeTest/CMake/src/sub.cpp",
+  "output": "CMakeFiles/app.dir/src/sub.cpp.obj"
+}
+]
