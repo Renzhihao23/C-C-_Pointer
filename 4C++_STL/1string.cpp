@@ -46,10 +46,15 @@ void test03()
 
     //string 转 char*
     string str = "itcast";
-    const char* cstr = str.c_str();
+    char* p;
+    p = (char *)str.c_str();
+    
+    
     //char* 转 string
     char* s = "itcast";
-    string str(s);
+    string str;
+    str = (string)s;
+    
 }
 int main()
 {
