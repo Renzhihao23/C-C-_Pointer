@@ -47,5 +47,6 @@
         "vector": "cpp",
         "map": "cpp",
         "algorithm": "cpp"
-    }
+    },
+    "cmake.sourceDirectory": "E:/Projects/C_or_CPP/cmakeTest/CMake"
 }
