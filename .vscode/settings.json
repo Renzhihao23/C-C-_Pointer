@@ -48,7 +48,8 @@
         "map": "cpp",
         "algorithm": "cpp",
         "deque": "cpp",
-        "numeric": "cpp"
+        "numeric": "cpp",
+        "list": "cpp"
     },
     "cmake.sourceDirectory": "E:/Projects/C_or_CPP/cmakeTest/CMake",
     "C_Cpp.errorSquiggles": "disabled"
